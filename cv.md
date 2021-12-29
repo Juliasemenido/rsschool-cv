@@ -1,4 +1,5 @@
 # Julia Semenido
+! [Profile photo] (./photo.jpeg)
 ### Contacts
 * phone number: +375295982306
 * email: semenido.1997@gmail.com
@@ -8,8 +9,10 @@
 Goal: to study a new demanded profession
 
 ### Skills
- HTML, CSS, Markdown
- #### Tools
- Git, VS Code
+ * HTML, CSS
+ * Markdown
+ * Git, GitHub
+ * VS Code
+
 
 
