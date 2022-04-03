@@ -4,6 +4,7 @@
 
 ### Contacts
 
+* location: Tbilisi, Georgia
 * phone number: +375295982306 / +995595108746
 * email: semenido.1997@gmail.com
 * discord: @semjul
@@ -39,12 +40,16 @@ function preloadImages() {
 * [CV](https://github.com/Juliasemenido/rsschool-cv)
 
 ### Education
-##
-1. Polotsk State University - Educator (2018)
-2. Polotsk State University - Economist (2020)
 
+* Polotsk State University - Educator (2018)
+* Polotsk State University - Economist (2020)
+
+#### Courses
+* RS Schools Course «JavaScript/Front-end. Stage 0»
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ### Languages
 
+* Belarusian/Russian: Native
 * English: [International House](https://www.ih.by/) A1
 * German: A1
