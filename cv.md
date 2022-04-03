@@ -8,12 +8,14 @@
 * phone number: +375295982306 / +995595108746
 * email: semenido.1997@gmail.com
 * discord: @semjul
+
 *************************************************************
 
 ### Info
 
 ***Goal***: to study a new demanded profession  
 ***Strengths***: communication skills, problem solving, quick learning
+
 ***********************************************************************
 
 ### Skills
@@ -23,6 +25,7 @@
 * Markdown
 * Git, GitHub
 * VS Code
+
 ***************************************************************************
 
 ### Code example
