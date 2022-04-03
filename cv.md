@@ -8,11 +8,13 @@
 * phone number: +375295982306 / +995595108746
 * email: semenido.1997@gmail.com
 * discord: @semjul
+*************************************************************
 
 ### Info
 
 ***Goal***: to study a new demanded profession  
 ***Strengths***: communication skills, problem solving, quick learning
+***********************************************************************
 
 ### Skills
 
@@ -21,6 +23,7 @@
 * Markdown
 * Git, GitHub
 * VS Code
+***************************************************************************
 
 ### Code example
 
@@ -39,6 +42,13 @@ function preloadImages() {
 
 * [CV](https://github.com/Juliasemenido/rsschool-cv)
 
+### Projects
+
+* [Portfolio](https://rolling-scopes-school.github.io/juliasemenido-JSFEPRESCHOOL/portfolio/)
+* [Eco-sounds](https://rolling-scopes-school.github.io/juliasemenido-JSFEPRESCHOOL/eco-sounds/)
+* [Randon jokes](https://rolling-scopes-school.github.io/juliasemenido-JSFEPRESCHOOL/random-jokes/)
+
+*************************************************************************************
 ### Education
 
 * Polotsk State University - Educator (2018)
@@ -46,6 +56,7 @@ function preloadImages() {
 
 #### Courses
 * RS Schools Course «JavaScript/Front-end. Stage 0»
+> ![Certificate](course.jpg)
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ### Languages
