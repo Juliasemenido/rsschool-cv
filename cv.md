@@ -1,6 +1,6 @@
 # Julia Semenido
 
-![Profile photo](photo.jpeg)
+![Profile photo](/assets/img/photo.jpeg)
 
 ### Contacts
 
@@ -59,7 +59,7 @@ function preloadImages() {
 
 #### Courses
 * RS Schools Course «JavaScript/Front-end. Stage 0»
-> ![Certificate](course.jpg)
+> ![Certificate](/assets/img/course.jpg)
 * RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ### Languages
