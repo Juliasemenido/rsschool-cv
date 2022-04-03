@@ -32,31 +32,36 @@
               <img src="./assets/img/photo.jpeg" alt="profile photo" class="section-profile-logo">
               <div class="section-profile-title">
                 <h1 class="section-title main-title">Julia Semenido</h1>
-                <h2 class="">Front-end Trainee</h2>
+                <h2>Front-end Trainee</h2>
               </div>
             </section>
             <section class="section" id="contacts">
                 <h2 class="section-title">Contacts</h2>
                 <ul class="section-list">
                   <li class="section-item">
-                    <div class="contactssvg"> <img src="./assets/svg/location.svg"> </div>
+                    <div class="contact-items"> <img src="./assets/svg/location.svg" class="contactssvg"> 
                       Tbilisi, Georgia
+                    </div>
                     </li>
                     <li class="section-item">
-                      <div class="contactssvg"> <img src="./assets/svg/phone.svg"> </div>
-                      Phone number: +375295982306 / +995595108746
+                      <div class="contact-items"> <img src="./assets/svg/phone.svg" class="contactssvg"> 
+                        Phone number: +375295982306 / +995595108746
+                      </div>
                     </li>
                     <li class="section-item">
-                      <div class="contactssvg"> <img src="./assets/svg/email.svg"> </div>
-                      Email: <a href="mailto:semenido.1997@gmail.com" title="email">semenido.1997@gmail.com</a>
+                      <div class="contact-items"> <img src="./assets/svg/email.svg" class="contactssvg"> 
+                        Email: <a href="mailto:semenido.1997@gmail.com" title="email">semenido.1997@gmail.com</a>
+                      </div>
                     </li>
                     <li class="section-item">
-                      <div class="contactssvg"> <img src="./assets/svg/discord.svg"> </div>
-                      Discord: <a href="https://discord.com/invite/TV4JQrpK" title="discord">semjul</a>
+                      <div class="contact-items"> <img src="./assets/svg/discord.svg" class="contactssvg"> 
+                        Discord: <a href="https://discord.com/invite/TV4JQrpK" title="discord">semjul</a>
+                      </div>
                     </li>
                     <li class="section-item">
-                      <div class="contactssvg"> <img src="./assets/svg/github.svg"> </div>
-                      Github: <a href="https://github.com/Juliasemenido" title="github">Juliasemenido</a>
+                      <div class="contact-items"> <img src="./assets/svg/github.svg" class="contactssvg"> 
+                        Github: <a href="https://github.com/Juliasemenido" title="github">Juliasemenido</a>
+                      </div>
                       </li>
                   </ul>
             </section>
@@ -91,10 +96,14 @@
             </section>
             <section class="section" id="code">
               <h2 class="section-title">Code</h2>
-              <p>Example from Codewars</p>
-<pre class="pre"><code>  function multiply(a, b){
-    return a * b
-  }</code></pre>
+              <p>Example from my pet project</p>
+<pre class="pre"><code>  function preloadImages() {
+  const seasons = ['winter', 'spring', 'summer', 'autumn'];
+  for(let i = 1; i <= 6; i++) {
+    const img = new Image();
+    seasons.forEach((season) => img.src = `./assets/img/${season}/img${i}.jpg`);
+  }
+}</code></pre>
             </section>
             <section class="section" id="projects">
               <h2 class="section-title">Projects</h2>
@@ -121,11 +130,19 @@
               <p>
                 Polotsk State University - Economist (2020)
               </p>
+              <h3>Courses</h3>
+              <ul class="section-list">
+                <li class="section-item">
+                  <a href="https://app.rs.school/certificate/xoyk05o7">RS Schools Course «JavaScript/Front-end. Stage 0»</a>
+                </li>
+                <li class="section-item">
+                  <a href="https://rs.school/js/">RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)</a>
+              </ul>
             </section>
             <section class="section section-english" id="english">
               <h2 class="section-title">English</h2>
               <p class="section-item">
-                English: <a href="https://www.ih.by/" title="github">International House</a> A1 (in progress)
+                English: <a href="https://www.ih.by/" title="github">International House</a> A1
               </p>
             </section>
         </div>
