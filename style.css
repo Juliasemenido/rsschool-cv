@@ -96,6 +96,10 @@ body {
   border-bottom: 0;
 }
 
+.pre {
+  font-size: 15px;
+}
+
 .section-title {
   margin-bottom: 20px;  
   color: #864343;
